@@ -6,5 +6,6 @@
 
  [rentry](https://rentry.co/theconstructicons/)  ⠀⠀[ata](https://constructicons.atabook.org/)
 
+ceo of constructistar ok
 
 </div>
